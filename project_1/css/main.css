@@ -24,3 +24,8 @@ body
 {
 	border-radius: 50%;
 }
+
+.bg-black 
+{
+	background-color: #000;
+}
