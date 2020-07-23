@@ -4,7 +4,18 @@
 	src: url("../fonts/Neon/Neon.ttf");
 }
 
+@font-face
+{
+	font-family: "Product Sans";
+	src: url("../fonts/Product Sans/Product Sans.ttf");
+}
+
 .product-description 
 {
 	font-family: "Neon";
+}
+
+body 
+{
+	font-family: "Product Sans";
 }
