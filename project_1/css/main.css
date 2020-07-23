@@ -4,6 +4,7 @@
 	src: url("../fonts/Neon/Neon.ttf");
 }
 
-body {
+.product-description 
+{
 	font-family: "Neon";
 }
