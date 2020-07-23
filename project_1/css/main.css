@@ -1,0 +1,9 @@
+@font-face 
+{
+	font-family: "Neon";
+	src: url("../fonts/Neon/Neon.ttf");
+}
+
+body {
+	font-family: "Neon";
+}
