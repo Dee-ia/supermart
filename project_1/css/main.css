@@ -32,5 +32,11 @@ body
 
 .hr-1
 {
-	background-color: red;
+	background-color: white;
+}
+
+.py-5px
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
