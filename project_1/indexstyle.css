@@ -1,0 +1,137 @@
+body{
+    background-color: cadetblue;
+    font-family: sans-serif;
+}
+
+header{
+    width: 80%;
+    overflow: hidden;
+    margin: auto;
+}
+
+.head{
+    color: #fff;
+    font-size: 0.8rem;
+    word-spacing: 0.7rem;
+    float: left;
+}
+
+nav{
+    float: right;
+}
+
+nav li{
+    display: inline;
+    padding: 1rem;
+}
+
+nav li a{
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.active, .menu ul li:hover{
+    background: #283b5f;
+    border-radius: 21px;
+}
+
+.container{
+    width: 70%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 5rem;
+}
+
+.container ul li:hover{
+    background: #4267B2;
+    border-radius: 21px;
+}
+
+showcase h1{
+    font-size: 4rem;
+    color: #fff;
+    margin-bottom: 0;
+}
+
+showcase h3{
+    font-family: cursive;
+    font-size: 1.7rem;
+    color: rgb(0, 0, 0);
+    letter-spacing: 0.2rem;
+    margin-top: 0.5rem;
+}
+
+showcase h4{
+    font-size: 1.3rem;
+    color: rgb(212, 14, 14);
+    font-weight: bold;
+    text-align: center;
+}
+
+showcase li{
+    display: inline;
+    padding: 1rem;
+}
+
+showcase li a{
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+showcase #g{
+    float: left;
+}
+showcase #f{
+    float: right;
+}
+
+showcase #e{
+    float: left;
+}
+showcase #p{
+    float: right;
+}
+
+showcase #d{
+    float: left;
+}
+showcase #fu{
+    float: right;
+}
+
+showcase li img{
+    height: 200px;
+    width: 300px;
+}
+
+
+
+
+.foot{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    color: rgb(0, 0, 0);
+    
+}
+
+.foot h2{
+    text-align: center;
+}
+
+footer{
+    font-family: sans-serif cursive;
+    overflow: hidden;
+}
+
+.lefty{
+    float: left;
+    font-weight: bold;
+}
+
+.righty{
+    float: right;
+    font-weight: bold;
+}
